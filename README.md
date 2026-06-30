@@ -62,7 +62,7 @@ To maintain pure ROI transparency for stakeholders, infrastructure hardware cost
 ## 🎬 Campaign Concept Asset
 Below is the high-fidelity 10-second conceptual clip built to demonstrate the pacing, visual hook, and behavioral "beat drop" milestone of the digital campaign:
 
-▶️ **[shopee_dropin_concept.mp4](shopee_dropin_concept.mp4)**  
+▶️ **[shopee_dropin_concept.mp4](concept_video.mp4)**  
 *(Note: Click the link above to play the prototype video file directly within your GitHub browser window.)*
 
 ---
